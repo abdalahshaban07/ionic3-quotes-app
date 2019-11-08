@@ -1,5 +1,7 @@
 {
   "name": "ProjectName",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
